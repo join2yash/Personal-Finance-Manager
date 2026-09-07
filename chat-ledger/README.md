@@ -4,7 +4,7 @@ Telegram bot that parses chat messages into balanced Dr/Cr journal entries.
 Matches Phase 0–1 of the build plan: multi-tenant partitioned schema, regex
 parser, `/balance` and `/undo` commands.
 
-To try : https://t.me/AI_AllExp_bot
+click here to try : https://t.me/AI_AllExp_bot
 
 ## What's here
 
